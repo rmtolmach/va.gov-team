@@ -44,9 +44,7 @@ body:
     id: do-not-edit
     attributes:
       label: DO NOT EDIT BELOW
-      value: |
-        ---
-        CC: @department-of-veterans-affairs/vsp-operations
+      value: CC: @department-of-veterans-affairs/vsp-operations
   - type: markdown
     attributes:
       value: |
