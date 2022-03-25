@@ -83,7 +83,7 @@ body:
   - type: input
     id: do-not-edit
     attributes:
-      label: DO NOT EDIT BELOW
+      label: Assignees (prefilled)
       value: |
         CC: @department-of-veterans-affairs/vsp-operations, department-of-veterans-affairs/operations-aws-approvers
   - type: markdown
