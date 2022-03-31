@@ -48,7 +48,7 @@ body:
       label: Is this request to submit an updated SSH key?
       description: Have you already submitted a SOCKS request in the past and just need to update your SSH key?
       options:
-      - label: Yes
+        - label: Yes
   - type: markdown
     attributes:
       value: |
