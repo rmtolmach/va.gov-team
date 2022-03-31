@@ -1,5 +1,19 @@
 # VA Mobile team - Release Highlights
 
+## Release: 3/29/22
+
+Improvements & Bug Fixes
+- Claim Refinements
+  - Accessibility improvements
+  - Enable multi image upload capabilities
+  - Bug fixes (constant display of snack bar)
+  - Bug fixes-Styling & formatting on deleting photo uploads
+  
+  BackEnd Release
+  
+  - Worked with IAM to fix login.gov staging & prod issue, additional mapping added to our authentication logic
+  - Bug: Payment information endpoint fails.  Now returning 502 errors vs 500
+
 ## Release: 3/15/22
 
  New & Improved & Bug Fixes

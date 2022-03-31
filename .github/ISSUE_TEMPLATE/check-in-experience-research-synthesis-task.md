@@ -2,14 +2,15 @@
 name: Check In Experience Research Synthesis Task
 about: For Check In Experience Research Synthesis Task
 title: "[Research]"
-labels: research, HCE-Checkin
+labels: HCE-Checkin, ux, research
 assignees: ''
 
 ---
+
 ## How to configure this issue
 
 - [ ] Attached to an Epic (what body of work is this a part of?)
-- [ ] Labeled with vsa-healthcare-exp, HCE-Checkin, ux, research
+- [ ] Labeled with HCE-Checkin, ux, research
 - [ ] Prepend [Research] to the beginning of the ticket title
 - [ ] Fill in User Stories
 - [ ] Fill in Description

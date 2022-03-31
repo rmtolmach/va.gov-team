@@ -31,10 +31,11 @@ This table includes links to the individual feature directory and the latest ite
 | Facility Locator | Map accessibility/usability| [EPIC #17671](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17671)  |[Design links](https://github.com/department-of-veterans-affairs/va.gov-team/issues/14818#issuecomment-713865240) | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | COVID-19 searches |[Epic #17321](https://github.com/department-of-veterans-affairs/va.gov-team/issues/17321) | [UX Pin](https://preview.uxpin.com/da6f3cf6f92a6ce39fa2cc6d510534b5329f86db#/pages/138059694/simulate/sitemap) | [In production](https://www.va.gov/find-locations) |
 | Facility Locator | Emergency care mashup | [Epic #7683](https://github.com/department-of-veterans-affairs/va.gov-team/issues/7683) | [UX Pin](https://preview.uxpin.com/8767aa9028468a26be090fd044d9ff26e40a8f95#/pages/138402705/simulate/no-panels?mode=i) | [In production](https://www.va.gov/find-locations) |
-| VAMC | CLCs/Domiciliaries |[Epic #22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) | [Dom Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/DISCOVERY-FINDINGS.md) [CLC Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/community-living-centers/discovery/CLC-DISCOVERY-FINDINGS.md) |  (Pending pilot pages)
-| VAMC | Mobile health clinics |[Epic #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/design ) |  In design |
-| VAMC | Lovell federal health | [Epic #34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [SME mural](https://app.mural.co/t/vsa8243/m/vsa8243/1642708450813/52521c15676970f2db4fcdd8161eb1dcb5ac87f1?sender=michellemiddaugh9063)/ [User flow](https://app.mural.co/t/vsa8243/m/vsa8243/1639752014389/5eeb47259cd9128ac0eef10e483761a6247137e0?sender=michellemiddaugh9063) / [UX Pin](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36?_gl=1*1uoic1i*_gcl_aw*R0NMLjE2NDgwNTUxMzkuQ2p3S0NBandpdXVSQmhCdkVpd0FGWEthTlA5M25BLTBsZlI4QTBtY3R6bEREZFB2bEIxWTJRcVZsdTdmc0UyT1VERlRSb3NybEc1UVVSb0NvQUlRQXZEX0J3RQ..#/pages/148503607/simulate/sitemap?mode=i)|  In design |
-| VAMC | VA health connect and other communication methods | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) | Pending Veteran research |
+| Facility Locator | VBA services | [Epic #4865](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4865) | [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/76fa860bb3ac62ad58c94c2f2b480d5296c5a1c8/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md) | Initial changes in Prod
+| VAMC | CLCs/Domiciliaries |[Epic #22113](https://github.com/department-of-veterans-affairs/va.gov-team/issues/22113) | [Dom Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/domiciliaries/discovery/DISCOVERY-FINDINGS.md) [CLC Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/community-living-centers/discovery/CLC-DISCOVERY-FINDINGS.md) | Design complete - editors are directed to [KB article](prod.cms.va.gov/help/vamc/about-locations-content-for-vamcs/how-to-add-a-community-liviing-center-or-domiliciary-page) (_needs VA connection_) for support creating their pages
+| VAMC | Mobile health clinics [Feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md) |[Epic #21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/design ) |  In design |
+| VAMC | Lovell federal health [Feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md) | [Epic #34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [SME mural](https://app.mural.co/t/vsa8243/m/vsa8243/1642708450813/52521c15676970f2db4fcdd8161eb1dcb5ac87f1?sender=michellemiddaugh9063) / [User flow](https://app.mural.co/t/vsa8243/m/vsa8243/1639752014389/5eeb47259cd9128ac0eef10e483761a6247137e0?sender=michellemiddaugh9063) / [UX Pin](https://preview.uxpin.com/d55fbe11583adc1a1d7b6e2bafde9ef560c7bf36#/pages/148503607/simulate/sitemap?mode=i) / [IA map](https://app.moqups.com/Rnc4BDEKrA/view/page/a38ead751) |  In design |
+| VAMC | VA health connect and other communication methods [Feature transition doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connnect-communications.md) | [Epic #26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/26770) | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) | Pending Veteran research |
 | Vet Centers | MVP | [Epic #11294](https://github.com/department-of-veterans-affairs/va.gov-team/issues/11294) | [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/vet-centers/design)| [Production example](https://www.va.gov/cape-cod-vet-center/) |
 
 
@@ -102,17 +103,13 @@ Outline your process; add notes.
 13. Conduct user acceptance testing
 </details>
 
-<details>
-  <summary><strong>Design tools we used</strong> (Click to show details)</summary><br>
-
-  The Facilities Team does most of its designing and prototyping in UXPin, but for some cross-team projects, Sketch may be used as well. You may use a general purpose account, or a personal account, for each of the tools in this list. Check the links below, ask your design team on Slack, or refer to any applicable onboarding materials for instructions on how to get set up with each.
+### Design tools
   
 - [Sketch for Teams](https://design.va.gov/documentation/designers#sketch-for-teams-at-va)
 - UXPin
 - Mural
 - Github markdown
 - Slack
-</details>  
 
 ### VA.gov collaboration cycle
 - [VA Platform site collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/index.html)
@@ -121,7 +118,6 @@ Outline your process; add notes.
     - Design intent: a collaboration with other VA teams for feedback on content, acccessibility, and IA
     - Midpoint review: a follow up meeting with key specialists and stakeholders (not including smaller check-ins and updates)
     - Staging review: where designers work with engineers to ensure front-end implementation meets design standards
-- [Other platform references used]()
 
 <br>
 

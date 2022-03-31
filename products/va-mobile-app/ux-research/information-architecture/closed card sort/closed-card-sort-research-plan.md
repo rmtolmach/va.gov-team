@@ -82,7 +82,7 @@ This research will allow us to adjust the information architecture (and navigati
 ### Hypotheses 
 
 
-1. Veterans will be able to categorize cards and name groups of cards presented in the card sort.
+1. Veterans will be able to categorize cards presented in the card sort using the groups provided.
 2. Veterans will categorize cards and name groups in a similar manner to how they are organized on VA.gov.
 3. Veterans will find the proposed Payments category intuitive & categorize all payment related cards there.
 4. Veterans will categorize cards representing common mobile app actions in a way that’s consistent with other apps in the wild (ex: Account, Settings)
@@ -227,7 +227,7 @@ We estimate it will take participants 15 minutes or less to complete the card so
 
 ## Timeline
 
-The card sort will open on Feb 28 and should remain open for two weeks (March 14) or until there are 30 completes (whichever is sooner).
+The card sort will open on Feb 28 and should remain open for two weeks (March 14) or until there are 30 completes representing the recruitment criteria  (whichever is sooner).
 
 
 ### Prepare
@@ -239,9 +239,10 @@ The card sort will open on Feb 28 and should remain open for two weeks (March 14
 * Launch pilot using [OptimalWorkShop.com](optimalWorkShop.com) week of Feb 22
 * Edit protocol after pilot
 ### Study
-* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com) Feb 28
-* Analysis of Closed Card Sort
-* Review findings with VA mobile UX team, stakeholders. Edit based on feedback
+* Launch the rest of the tests on [OptimalWorkShop.com](optimalWorkShop.com) Feb 28 - March 3
+* Analysis of Closed Card Sort  March 7-16
+* Draft Report March 17-23
+* Review findings with VA mobile UX team, stakeholders. March 23 & 24
 * Repeat Closed Card Sort with alternate category label sets if needed
 
 

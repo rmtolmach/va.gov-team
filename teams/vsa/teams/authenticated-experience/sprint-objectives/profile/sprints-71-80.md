@@ -13,19 +13,60 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
+### General
+
+- Onboard Sharon #39204
+
+### Personal information revisions
+
+Goal: Finish BE and connect to frontend
+
+**PM**
+
+- Request QA for 5/4 - 5/17 sprint
+- Finish all QA prep
+- Finish call center guide
+
+**Design**
+
+- Finish call center guide
+- If time, UAT research plan and conversation guide 
+
+**FE**
+
+- Start connecting frontent to backend; Finish this if possible
+
+**BE**
+
+- Finish BE!!
+
 ### Bad address indicator
 
 **PM**
+
+Note: We can move this a sprint if Sharon needs to focus on general onboarding before jumping into this task.
 
 - Start on QA use cases (this will not be completed yet)
 - Figure out how we can get a staging user with the bad address indicator for testing (might require working with VA Profile)
 
 ### Notification preferences
 
+**PM**
+
+- Once we have final IA/content recommendations, make sure those are communicated to VA Profile
+
 **Design**
 
 - Update mocks to add the new comp & pen notification
 - Review with IA and content (so we can get feedback to VA Profile team)
+
+### Address change messaging
+
+- Continue work (may need to check in with Christina and Adam on current status)
+
+### MHV research
+
+- Liz to deliver final report
 
 ## Sprint 72 (4/20 - 5/3)
 

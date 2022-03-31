@@ -14,6 +14,8 @@
 
 [Documentation and analytics](#documentation-and-analytics)
 
+[Contacts](#contacts)
+
 [Product approach](#product-approach)
 
 [Product roadmap](product-roadmap)
@@ -37,6 +39,15 @@ It is the newer version of [VA's Legacy directory](https://www.va.gov/directory/
 - [Legacy DOMO dashboard](https://va-gov.domo.com/page/1129885232)
 - [Mission Act DOMO Dashboard](https://va-gov.domo.com/page/1865233622?userId=1405356294) also contains community care search data from the Facility Locator
 - [Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/mapbox)
+- [Error states](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/error_states.md#error-states-and-steps-for-resolution)
+- [Issue response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/issue-response.md)
+- [Process for reporting inaccurate data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md)
+
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Nancy Smith | nancy.smith@oddball.io | Mapbox POC
 
 ## Facility Locator product approach 
 
@@ -53,9 +64,9 @@ The most critical path iteams are listed below but do not represent the total of
 ### Now
 
 - **Update Mapbox security** 
-    - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+    - Epic [#33890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890) -> _currently blocked. See [Mapbox token conversion proposal](https://vfs.atlassian.net/wiki/spaces/FTT/pages/2139783260/MapboxToken+Conversion+Guide+Proposal+draft)_
 - **Implement VA health connect number on Facility Locator using CMS as source of truth** 
-   - Issue [#35477](https://github.com/department-of-veterans-affairs/va.gov-team/issues/33890)
+   - Issue [#38962](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38962)
 
 ### Next 
 
@@ -69,7 +80,7 @@ The most critical path iteams are listed below but do not represent the total of
    - Increase VBA service information [#37632](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37632)
    - Increase VBA service information [#37633](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37633)
    - Facility Locator expected behavior for VBA "all services" searches [#38433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/38433)
-   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/commit/7cf1002b3974365c136481f8eb04ee6f225e77b0)
+   - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/76fa860bb3ac62ad58c94c2f2b480d5296c5a1c8/products/facilities/facility-locator/research/user-research/services-benefits-taxonomy-USERS/VBA-service-labels-usability-research-findings.md)
 - **Restore pagination for urgent care and emergency care** 
    - Issue [#32760](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31901)
 - **Implement more robust monitoring**
@@ -78,8 +89,8 @@ The most critical path iteams are listed below but do not represent the total of
 ### Later
 
 - **Service-centric (task-based) search**
-   - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801)
-- **Add ability to return non-VAST locations, such as Vet Ceter community access points and VA health mobile stops** 
+   - Epic [#13801](https://github.com/department-of-veterans-affairs/va.gov-team/issues/#13801) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/80d947c076470728ec4bf84275d32769f1a75545/products/facilities/facility-locator/service-centric-search/initiative-brief.md)
+- **Add ability to return non-VAST locations, such as Vet Center community access points and VA health mobile stops** 
    - Epic [#28088](https://github.com/department-of-veterans-affairs/va.gov-team/issues/28088)
 - **PPMS Taxonomy Mapping**
    - Epic [#9995](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9995)
@@ -90,8 +101,9 @@ The most critical path iteams are listed below but do not represent the total of
 
 ## Artifacts
 - [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/Facility-Locator-product-guide-updated%2003.04.22.pdf) | March 2022
+  - [Link to Product Guide Word version](https://dvagov-my.sharepoint.com/:f:/r/personal/suzanne_middaugh_va_gov/Documents/Facility%20Locator?csf=1&web=1&e=3BaPie)_requires VA network connection_
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
 - [Engineering folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
-- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources) | March 2022
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
 - [Design folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research), beginning with this [README summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/README.md)

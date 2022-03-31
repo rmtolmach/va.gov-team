@@ -27,26 +27,17 @@ Research questions we looked to answer:
 - Are the placement criteria effective in determining placement of content?
 - Are there any gaps in the placement criteria that result in the inability to make a decision on content placement?
 
-## Key Findings
-The 5-10 top findings from your study should be listed here. Write your findings so that if someone reads only these bullets they can leave feeling they got useful information and the study was worthwhile. Examples might be "Most participants used the Search field to find the form, and searched for the term 'veteran health'" or "Most participants struggled with the secondary caregiver section on the form". See an example of this section [on the Caregiver findings document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md).
 
-1. Finding one
-2. Finding two
-3. Finding three
-4. Finding four
-5. Finding five
-6. Finding six
-7. Finding seven
+## Findings
 
-
-## Details of Findings
-
-**1. Content authors found the criteria to be helpful and easy to use, and led confident decision making.**
+**1. Content authors found the criteria to be helpful and easy to use, and helped decision making confidence.**
 - After the activity, the participants were asked to rate the criteria on helpfulness, ease of understanding, and decision confidence on a scale of 1-5, 1 being the lowest score and 5 being highest.
   - Ease of use averaged 4.4
   - Helpfulness of criteria averaged 4.2
   - Confidence in decisions averaged 4.4
 - In addition, the group indicated that having the criteria would be useful in supporting and explaining decisions to stakeholders
+  - _"Just the fact that we’d have something to point to would be incredibly helpful."_
+- For baseline purposes, the group was able to evaluate 5 pages of varying length within 30-35 minutes
 
 
 **2. The language used in criteria 3 around "unique application or application process" and "core or supplemental benefit" was not clear to the group**
@@ -55,9 +46,9 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - Another participant wondered if "core" referred to what everyone receives, where as "supplemental" is based on unique circumstances
   - When the group was asked if they agreed with any of the definitions given, besides a slight head nod from one person, the group did not really provide a response back in agreement or disagreement.
   - _"...I did spend a lot of time on the core vs. supplemental. I don't know why I struggled with it because it didn't say you had to do anything different for the them, but I think I know enough to be dangerous and found myself thinking that those terms are important and wanting to define them."_
-- Participants noted that when content referenced any application or form, they often answered "yes" to this criteria
+- Participants also noted that when content referenced any application or form, they often answered "yes" to this criteria, and the word "unique" didn't seem to play a part
   - _"I was looking for is there an application there, is there a link to an application"_ 
-- There was uncertainty around what was included in "application process" 
+- In addition, there was uncertainty around what was included in "application process" 
     -  _"...thinking "application process"...does that include additional evidence that's way more extensive than what would often be required? I took it not to mean evidence."_  
     -  _"for the process, does that mean what you have to do in the form, or things you need to get ready to do the application...getting ready to, plus doing the thing, plus the afer"_
 
@@ -88,31 +79,37 @@ The 5-10 top findings from your study should be listed here. Write your findings
   - _"It's written like it's trying to convince you that it's R&S, but the more you look at it, it feels like benefit hub."_
   - _"I put in R&S as it is now, but would go to benefit hub if you took info from the linked fact sheet and how to apply for it"_
   
-**6. Speed of evaluations...**
-- The group was able to evaluate 5 pages of varying length within 30-35 minutes
-
-**7. The layout and format of the worksheet could use some minor improvements**
+**6. The layout and format of the worksheet could use some minor improvements**
 - Not everyone was clear that if you answered "yes" to criteria 4, the decision was made and you did not need to go on to the last criteria.  
   - _"I went on to # 5 every time, even though I answered "yes" to the fourth one"_
 
 ## Recommendations
 
-
-**Revise criteria 3 for easier reading and clearer language**
-- Clarify what is included in "application process"**
+**Revise the language used in criteria 3 to be more understandable**
+- Clarify what is included in "application process"
 - The terms "core" versus "supplemental" need to be defined, as well as indicate how they impact the placement decision
 - Split this criteria if needed in order to clarify the dependency between the two scenarios
 
-**Utilize individual bullets and/or questions to make criteria easier to read and follow**
+**Revise how the criteria is presented to make them easier to scan and read**
 - The group liked how criteria #5 used bullets to list out the individual scenarios and suggested the same formatting be followed for criteria 2 and 3. 
+- Make it very clear that criteri 5 is only used for content planned for placement within R&S
 
+**Include guidance and instructions with the criteria**
+- Provide instructions on when and how to use the criteria 
+- Include guidance such as
+  -  Looking at individual chunks of content versus just the whole page/document
+  -  Making decisions based on the goal of the page not just the provided content 
 
-**Improve wording to ensure that criteria 5 is only referenced in correct scenarios**
-
+**Establish process for handling placement decisions that may not be accurate**
+- What should happen if an inaccurate decision is made for benefit hub placement?
+- What should happen if an inaccurate decision is made for resources and support placement?
 
 
 ## Next Steps
+
+
 - Update criteria 3 based on feedback
+- Create instructions and guidance for content authors on how to use the critera 
 - Utilize the revised criteria in the R&S pilot with the Community Care working group to further validate
 
 ## Appendix

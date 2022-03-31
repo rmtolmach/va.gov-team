@@ -1,4 +1,4 @@
-# Bad Address Product Outline
+# Project outline: Add a bad address indicator for mailing addresses
 
 Last Updated: January 26, 2022
 
@@ -8,13 +8,7 @@ Slack channel: [#vsa-authd-exp](https://dsva.slack.com/channels/vsa-authd-exp); 
 
 ### Roles  
   
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |OCTO Lead| samara.strauss@va.gov |
-|Marci McGuire |Product Manager| marci.mcguire@gcio.com|
-|Christina Gednalske| Designer |christina.gednalske@adhocteam.us |
-|Adam Whitlock | FE Engineer| adam.whitlock@adhocteam.us |
-|Tom Harrison | BE Engineer | tom.harrison@adhocteam.us |
+[This is managed by the VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
 ### Table of Contents
 

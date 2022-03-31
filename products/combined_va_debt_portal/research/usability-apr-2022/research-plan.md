@@ -56,7 +56,7 @@ The main goals of this study are to:
 
 Currently, debts and bills are available in different locations on the site. This study will both inform us about where Veterans expect to find information about their debt + bills as well as advise us about how intuitive this iteration of the combined portal experience is.  
 
-Additionally, we’re planning to run this usability study in staging, so this will allow us to recruit folks who use assistive technology.  
+Additionally, we’re planning to run this usability study in production with the tool hidden behind a feature flag, so this will allow us to recruit folks who use assistive technology.  
 
 ### Research questions
 
@@ -113,7 +113,7 @@ Moderated usability study materials:
 - [Link to conversation guide](TBD) 
 
 - [Link to prototype](https://preview.uxpin.com/29cd8f525781fa231d16f5b50905ad15a99cbf01#/pages/148519709/simulate/no-panels?mode=i) 
-   - Note: We will be conducting the study in staging – URL TBD 
+   - Note: We will be conducting the study in production behind a featur flag – URL TBD 
 
 ## Recruitment
 
@@ -133,13 +133,33 @@ Using Perigean recruiting, we would like to schedule **20 participants** in orde
 
    - Have a working microphone on their device 
 
-   - Have Zoom downloaded to their device prior to the session and know how to share their screen 
+   - Have Zoom downloaded to their device prior to the session and know how to share their screen
 
-_Please consider each of the following two groups as a separate recruitment effort_
+- **All participants must be LOA3 (identity verified) on VA.gov.** Participants will likely not know what this means, so please confirm this prior to testing. This can be confirmed by having users sign into VA.gov and having them go to the VA.gov profile. If they are prompted to verify their identity, that means they are LOA1 and they are not suitable for testing. If they can see the profile, they are LOA3 and can participate in testing.
+
+- **All participants must be comfortable providing the email address they use to sign into VA.gov. We need this information 2-3 days before the study begins in order to give participants access to the tool in production.**
+
+- At least 6 people who use a screen reader 
+
+- At least 10 people must identify as Black, Hispanic/Latina/Latinx, or Native
+
+- At least 10 people must identify as having a cognitive consideration
+
+- At least 10 people must identify as other than male
+
+- At least 10 people are without a degree or professional certificate
+
+- At least 5 people are under 35
+
+- At least 5 people are over 55
+
+#### Participant groups
+
+To understand how Veterans interact with the portal depending on their experience with debts and copay bills, the primary criteria has been split into two groups. 
+
+[Please refer to these screener questions and correlating diagram](#screener-questions-and-group-diagram).
 
 **Group 1: Enrolled in VA health care** 
-
-[Screener questions](TBD)
 
 - **15 people** who are enrolled in VA health care 
 
@@ -157,75 +177,42 @@ _Please consider each of the following two groups as a separate recruitment effo
 
 **Group 2: Do not receive VA health care copays**
 
-[Screener questions](TBD) 
-
 - Maximum **5 people** who: 
 
    - Haven’t received VA health care copay bills **and** 
 
    - Have had at least one of the following VA debts: CH 33, Post-9/11 GI Bill, CH 34, CH 35, or Compensation & Pension
 
-#### Secondary criteria (nice-to-haves)
+#### Secondary criteria (nice-to-haves) 
 
-- 2 or 3 people who use a screen reader 
+- At least 6 people who identify as gay, lesbian, bisexual, or transgender 
 
-- At least 4 women 
+- At least 5 people who live in a rural or remote area 
 
-- At least 2 men 
+- At least 5 people who live in a major metropolitan area 
 
-- At least 3 people who identify as gay, lesbian, bisexual, or transgender 
+- At least 3 non-native English speakers 
 
-- At least 2 people of color 
+### Screener questions and group diagram
 
-- At least 1 participant 55 or older 
+#### Screener questions 
 
-- At least 1 participant 35 or under 
+1. Which of the following describes you?
+  * I use VA health care and receive copays (Group 1)
+  
+  * I use VA health care and do not receive copays (Group 2)
+  
+  * I do not use VA health care (Group 2)
 
-- At least 2 people with a cognitive disability (e.g., TBI) 
+2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)?
+  
+  * Yes (If Group 1, admit at least 10)
+  
+  * No (Admit maximum of 5 for Group 1 and maximum of 5 for Group 2)
 
-- At least 2 people who don't have any degree or vocational training after high school (to include enlisted Veterans) 
+#### Group diagram
 
-- At least 1 person that has a college degree (to include officer Veterans) 
-
-- At least 2 people who live in a rural or remote area 
-
-- At least 1 person who lives in a major metropolitan area 
-
-- At least 1 non-native English speaker 
-
-### Screener questions
-
-#### Group 1
-
-1. Which of the following describes you? 
-
-   - I use VA health care and receive copays (proceed to the next question) 
-
-   - I use VA health care and do not receive copays (disqualify) 
-
-   - I do not use VA health care (disqualify)  
-
-2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)? 
-
-   - Yes (Admit at least 10) 
-
-   - No (Admit maximum of 5)
-
-#### Group 2
-
-1. Which of the following describes you? 
-
-   - I use VA health care and receive copays (disqualify) 
-
-   - I use VA health care and do not receive copays (proceed to the next question) 
-
-   - I do not use VA health care (proceed to the next question)  
-
-2. Veterans can incur debt with VA, usually as a result of a VA overpayment. Debts include: CH 33/Post-9/11 GI Bill, Compensation & Pension, CH 34, and CH 35 debts. Have you ever had a debt balance with VA, not including health care related debt (like co-pays)? 
-
-   - Yes (Admit maximum of 5) 
-
-   - No (disqualify) 
+![Group diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/research/usability-apr-2022/recruitment-mapping.png "Group diagram")
 
 ## Timeline
 

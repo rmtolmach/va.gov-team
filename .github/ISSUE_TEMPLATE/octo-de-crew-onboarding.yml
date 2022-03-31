@@ -1,0 +1,88 @@
+name: OCTO-DE Crew Onboarding Checklist
+description: Onboard a member of OCTO to a Digital Experience Crew
+title: "[OCTO-DE Crew Onboarding]: "
+labels: ["onboarding"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      This issue is for onboarding a member of OCTO to a Digital Experience Crew. Please assign to the Crew lead after opening.
+- type: dropdown
+  id: crew_name
+  attributes:
+    label: What OCTO-DE Crew is the team member joining?
+    multiple: false
+    options:
+      - Account Experience
+      - Benefits
+      - Health
+      - Mobile
+      - Platform
+      - Sitewide
+- type: dropdown
+  id: cop_name
+  attributes:
+    label: What OCTO Community of Practice is the team member part of?
+    multiple: false
+    options:
+      - Design
+      - Engineering
+      - Product
+- type: checkboxes
+  attributes:
+    label: Has user received VA.gov email address?
+    description: User must have @va.gov email address provisioned
+    options:
+    - label: User has @va.gov email address
+- type: input
+  id: va_email
+  attributes:
+    label: VA Email Address
+    description: What is the VA email address of the person being onboarded?
+    placeholder: 'example@va.gov'
+- type: checkboxes
+  attributes:
+    label: Has user been added to Department of Veterans Affairs Github Organization?
+    description: User must be listed in https://github.com/orgs/department-of-veterans-affairs/people
+    options:
+    - label: User is member of Github org
+- type: input
+  id: github_username
+  attributes:
+    label: Github Username
+    description: What is the Github username of the person being onboarded?
+    placeholder: '@Octocat'
+- type: checkboxes
+  attributes:
+    label: Has user been added to DSVA Slack?
+    description: User must be a member of https://dsva.slack.com/
+    options:
+    - label: User is member of DSVA Slack
+- type: input
+  id: slack_username
+  attributes:
+    label: Slack Username
+    description: What is the Slack username of the person being onboarded?
+    placeholder: '@Slackbot'
+- type: checkboxes
+  attributes:
+    label: Crew Specific - Platform
+    description: Onboarding tasks specific to OCTO-DE Platform Crew
+    options:
+    - label: "Add to Slack group: @octo-de-platform"
+    - label: "Add to Github group: octo-de-platform"
+    - label: "Post welcome Slack message: #platform-team"
+    - label: "Register for Platform Orientation: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=governance-team&template=orientation-epic.md&title=Platform+Orientation+Template+%5BYour+name+here%5D"
+    - label: "Add to Confluence"
+    - label: 'Add to Confluence group "platform-crew-octo-de" https://admin.atlassian.com/s/10f8a514-fd86-4b32-8ba3-c0bfc6969f88/groups/81f1ea1a-fc6d-4b27-aed5-0bb73dd86c02'
+    - label: "Update Team Roster (private) https://vfs.atlassian.net/wiki/spaces/OCLP/overview#Meet-the-team"
+    - label: "Update Team Roster (public) https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623"
+    - label: "Schedule recurring 1:1"
+    - label: "Add to Platform meetings https://vfs.atlassian.net/wiki/spaces/AP/pages/2141519911/Platform+Meetings"
+    - label: "Add to team PO meetings"
+    - label: "Update Slack profile in accordance with https://depo-platform-documentation.scrollhelp.site/getting-started/Request-access-to-tools.969605215.html#Requestaccesstotools-Slack"
+      
+      
+      
+      
+      

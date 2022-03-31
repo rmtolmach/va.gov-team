@@ -8,9 +8,11 @@
 
 ## Table of Contents
 
-[Product Overview](#VAMC-modernized-pages-product-product-overview)
+[Product Overview](#VAMC-modernized-pages-product-overview)
 
 [History](#history)
+
+[Contacts](#contacts)
 
 [Documentation and analytics](#documentation-and-analytics)
 
@@ -20,7 +22,6 @@
 
 [Artifacts](#artifacts)
 
-[Github labels](#github-labels)
 
 ## VAMC modernized pages product overview
 Modernized VAMC websites are comprehensive facility pages designed to meet the needs of Veterans, their families and caregivers. The pages provide the location details needed before visiting and easy access to top tasks and digital health tools. They are powered by a custom Drupal content management system (CMS). Content is differentiated across levels of governance - VHA national, VAMC system and VAMC local facility. During the roll-out, the Facilities team had responsibility for the front-end, from content API to Veteran-facing UI.  
@@ -34,6 +35,13 @@ This upgrade project has been the collaboration of multiple product teams within
 - VAMC Upgrade Team: responsible for content creation and mapping
 - Facilities Team: responsible for Veteran-facing front end (from content API to Veteran-facing UI) _Ownership of the front end work was transferred from the Public Websites team to the Facilities team following a decision to implement on VAMCs only (rather than globally)._
 
+## Contacts
+Person | Email | Role |
+---| --- | --- |
+Dave Conlon | david.conlon@va.gov | Product owner
+Jenny Heiland-Luedtke |jennifer.heiland-luedtke@va.gov | Deputy Director, VHA Digital Media
+Kevin Walsh | Slack @Kevin Walsh | Sitewide CMS Product Manager
+Clarence Maeng | Slack @Clarence Maeng | CMS Delivery Manager
 
 ## Documentation and analytics
 - [Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers)
@@ -59,14 +67,20 @@ The most critical path iteams are listed below but do not represent the total of
   - **Medical records** - Epic [#37365](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37365)
     - Includes **Cerner link** [#35947](https://github.com/department-of-veterans-affairs/va.gov-team/issues/35947)
   - **Billing and insurance** - Epic [#37366](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37366)
-- **Lovell federal health care**- Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
+- **Lovell federal health care** - Epic [#34022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/lovell-initiative-brief.md)
+    - _next up: research on dual eligibles to validate design for switching between DoD and VA experiences_
 - **VAMC options for Veteran to communicate with the VA** - Epic [#26770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34022)
-- **Support for Cerner roll-out** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
+    - _next up: Veteran research_
+      - [_research plan_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Research-Plan.md) 
+      - [_conversation guide_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/VAMC-communications-methods/Conversation-Guide.md)
+- **Support for Cerner roll-out/EHRM single source of truth** - Epic [#31900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/31900)
+    - Roseburg roll-out - planned for June 13, 2022
+    - Columbus roll-out (TBD)
 
 ### Next 
-- **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
-- **Re-evaluate Left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781)
-- Health service modalities (telehealth, virtual, mobile, etc)
+- **Representing mobile VHA locations** - Epic [#21781](https://github.com/department-of-veterans-affairs/va.gov-team/issues/21781) | [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-vha-mobile-redesign/initiative-brief.md)
+- **Re-evaluate left nav menu (especially with regard to programs and locations)** - Epic [#9946](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9946) and [#30770](https://github.com/department-of-veterans-affairs/va.gov-team/issues/30770)
+- **Health service modalities (telehealth, virtual, mobile, etc)**
 
 ### Later
 
@@ -85,7 +99,10 @@ The most critical path iteams are listed below but do not represent the total of
 - [VAMC product demo environment training](VACMS-product-demo-environments-training.pdf)
 
 ### Design-research
-- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/vsa-ux-transition-doc.md#our-ux-research-resources) | March 2022
+- [Research and design hub page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/vsa-ux-transition-doc.md) | March 2022
+- [Lovell federal health feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/lovell-federal-health.md) | March 2022
+- [Mobile health clinics feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/mobile-health-clinics.md) | March 2022
+- [VA health connect communications feature document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/product-transition-doc/feature-docs/va-health-connect-communications.md) | March 2022
 - [Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/discovery)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research)
 - [Research summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/research#vamc-research-readme)

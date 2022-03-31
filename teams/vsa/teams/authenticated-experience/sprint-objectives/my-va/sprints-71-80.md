@@ -13,19 +13,47 @@
 
 ## Sprint 71 (4/6 - 4/19) 
 
-- If applicable: Add Columbus, OH to list of Cerner facilities
+- If applicable: Add Columbus, OH to list of Cerner facilities #38551
+
+### General
+
+- Say goodbye to Heather :(
+- Welcome back AJ :) #39292
+
+### Payment info
+
+- Updates from staging review, if necessary
+- Privacy and security review (ticket open and pending review)
+- If all is good to go, recruit and hold UAT #38194
+- PM: During UAT, make sure we can see analytics coming in for new links #39280
+  - [Use this report](https://analytics.google.com/analytics/web/#/report/content-event-pages/a50123418w177519031p176188361/explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:www.va.gov~2Fmy-va~2F,analytics.eventCategory:Interactions) and make sure you see [all new links for which we've added tracking](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37589).
+  - You'll need to filter the report to add between 100 - 250 results, since the new links will only have been clicked a handful of times during UAT.
+  - Success: We see data coming in for all new links.
+  - Only do this if we hold UAT this sprint
 
 ### On-site notifications
 
+**PM**
+
+- VANotify to start work; evaluate what they need to do so we can plan our own timelines
+- Do we have a plan for QA? How are we going to trigger a notification for testing? #34543
+
 **Design**
 
-- Explore notification style so we don't have to use the alert/error styling
+- Explore notification style so we don't have to use the alert/error styling #39090
+
+**Medical co-pays/debts**
+
+- TBD. Need to figure out if we need more explorations or if we have designs ready for testing.
 
 ### My VA audit
 
-- Health care section
-- Payment section
-- Applications in progress section
+**Design**
+
+- Audit health care #39050
+- Audit benefit payments and debts #39051
+- Audit applications in progress #39052
+- If time, regroup with Samara/AJ (or Heather if she is still here) on existing states #39285
 
 ## Sprint 72 (4/20 - 5/3)
 
